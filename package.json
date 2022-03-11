@@ -1,0 +1,24 @@
+{
+  "name": "techreturners",
+  "version": "1.0.0",
+  "description": "This is a boilerplate for typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "techreturners"
+  },
+  "author": "Julia Branke",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^17.0.10",
+    "axios": "^0.25.0",
+    "mocha": "^9.1.4",
+    "node-fetch": "^3.2.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.6.2"
+  }
+}
